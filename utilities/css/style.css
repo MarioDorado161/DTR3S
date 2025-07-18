@@ -6259,9 +6259,9 @@ body {
   }
 
   .k-new-navbar-logo {
-    background-size: 70px !important;
-    height: 70px !important;
-    width: 70px !important;
+    background-size: 60px !important;
+    height: 60px !important;
+    width: 60px !important;
     margin-top: 5px;
     margin-left: 0px;
   }
@@ -7777,10 +7777,10 @@ body {
   background-position: right center;
 }
 .w-showcase-images-image-1 {
-  background-image: url(https://dy53q6sor7j4i.cloudfront.net/assets/graphic-usb-cable-11dfdbac2aef972216d7d24a10a21bcc54aeb951898b4a4645359be30dbc819e.jpg);
+  background-image: url(../img/contabilidad.png);
 }
 .w-showcase-images-image-2 {
-  background-image: url(https://dy53q6sor7j4i.cloudfront.net/assets/graphic-in-pouch-a7bd25d549140fab6d17f8e9d3c2237f43365b550c0e0caeaeda320f253ee75c.jpg);
+  background-image: url(../img/softwaremonet.png);
 }
 @media (max-width: 991px) {
   .w-showcase-container {
@@ -7867,7 +7867,7 @@ body {
   background-image: url(https://dy53q6sor7j4i.cloudfront.net/assets/icon-cellular-0e17fbee951ffde9890745635fda388cc597d1327750da7641acff70950d1e64.svg);
 }
 .w-under-the-hood-icon--battery {
-  background-image: url(https://dy53q6sor7j4i.cloudfront.net/assets/icon-battery-43e1352b8c9d774ae59429d356677abb98b985dffca8c9e38e0dac0cc336a6fd.svg);
+  background-image: url(../img/icon-contab.png);
 }
 .w-under-the-hood-icon--coverage {
   background-image: url(https://dy53q6sor7j4i.cloudfront.net/assets/icon-coverage-6ee3313017770762fd02b3de77044121ec8ef6f840aac3b345fe84171cebbd70.svg);
@@ -7876,11 +7876,12 @@ body {
   background-image: url(https://dy53q6sor7j4i.cloudfront.net/assets/icon-wifi-c56df74fa480efd5131f4391b10bcc324cdb6b7a2c7f754dcddf778986e7118f.svg);
 }
 .w-under-the-hood-icon--size {
-  background-image: url(https://dy53q6sor7j4i.cloudfront.net/assets/icon-size-09d0031ecfccf2d3220dab2782b834dca619c2d2da01f95639f0634178740a52.svg);
+   background-image: url(../img/enterprise.png);
 }
 .w-under-the-hood-icon--apps {
   background-image: url(https://dy53q6sor7j4i.cloudfront.net/assets/icon-apps-aa6fed9e63e4afaeb75cb58fdda0691744461309a7a29b0de93ff1e75e75110e.svg);
 }
+
 .w-options {
   margin-bottom: 110px;
   display: block;
